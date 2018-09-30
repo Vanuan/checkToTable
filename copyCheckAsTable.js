@@ -24,6 +24,7 @@
   function createTable(objectArray, fields, fieldTitles) {
     let body = document.getElementsByTagName('body')[0];
     let tbl = document.createElement('table');
+    tbl.setAttribute('style', 'color:black');
     let thead = document.createElement('thead');
     let thr = document.createElement('tr');
     fieldTitles.forEach((fieldTitle) => {
