@@ -1,7 +1,7 @@
 Check To Table
 --------------
 
-Chrome extension that copies sfs.gov.ua check contents into table
+Chrome extension that copies [sfs.gov.ua check](https://cabinet.sfs.gov.ua/cashregs/check) contents into table
 
 ![Screenshot](./screenshot.png)
 
